@@ -1,3 +1,7 @@
+#Citation
+
+This is a fork of detectRecog/CCPD for CS230 Project.
+
 # CCPD: Chinese City Parking Dataset
 
 ## UPdate on 10/03/2019. CCPD2019 is now publicly available, is much more challenging with over 300k images and all annotations are refined. (If you are benefited from this dataset, please cite our paper.) It can be downloaded from:
